@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database file (no need to include in GitHub)
+sales_data.db
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VS Code settings (optional, if you're using it)
+.vscode/
+
+# Mac OS / Linux system files (optional)
+.DS_Store
+Thumbs.db
